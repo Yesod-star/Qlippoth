@@ -1,4 +1,4 @@
-<h1 font-style="century"> Qlippoth </h1>
+<h1 font-style="Constantia"> Qlippoth </h1>
   
   
   <p>Qlippoth trata-se de um projeto de jogo 2D feito a partir de C# e Unity, para criar sua aplicação, favor abrir o arquivo no UNITY 2021.
