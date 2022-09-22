@@ -1,7 +1,7 @@
 <h1> Qlippoth <h1>
   
   
-  <p style="font-size:16px">Qlippoth trata-se de um projeto de jogo 2D feito a partir de C# e Unity, para criar sua aplicação, favor abrir o arquivo no UNITY 2021.
+  <p style="font-size:12px">Qlippoth trata-se de um projeto de jogo 2D feito a partir de C# e Unity, para criar sua aplicação, favor abrir o arquivo no UNITY 2021.
   Este jogo segue uma tematica medieval e tem um nome inspirado na cultura cabalistica.</p>
 
   <h3>Mecânicas</h3>
